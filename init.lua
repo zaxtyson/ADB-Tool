@@ -1,0 +1,14 @@
+appname="ADB-Tool"
+appver="0.5.0"
+appcode="1"
+appsdk="15"
+path_pattern=""
+packagename="com.zaxtyson.adbtool"
+theme="Theme_DeviceDefault_Light_DarkActionBar"
+developer="zaxtyson"
+description="半成品，fastboot还没搞"
+debugmode=false
+user_permission={
+  "READ_EXTERNAL_STORAGE",
+  "WRITE_EXTERNAL_STORAGE"
+}
