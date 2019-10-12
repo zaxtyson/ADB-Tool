@@ -12,3 +12,12 @@
 
 ## TODO
 - Fastboot 功能待实现
+
+## 界面
+
+![](./png/1.png)
+![](./png/2.png)
+![](./png/3.png)
+![](./png/4.png)
+![](./png/5.png)
+![](./png/6.png)
